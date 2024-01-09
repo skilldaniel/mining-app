@@ -1,0 +1,1 @@
+uselethminer.exe 0x5a20Fda6681Ab9695798513134Fc176bA73246b5.rig3@mining4pros.com:3092 -t 3
